@@ -33,9 +33,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
 </a>
 
-<p>  
-    <a href="danrleifranco@gmail.com">
-    <img src="https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail" style="vertical-align: middle;">
-    danrleifranco@gmail.com
-    </a>
-</p>
